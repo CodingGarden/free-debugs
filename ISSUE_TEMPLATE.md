@@ -20,5 +20,6 @@ Please check all that apply
 ## Link to code sample
 
 > For your problem to be considered, you MUST link to a code sample.
+> See a list of suggested sites here: https://github.com/CodingGarden/free-debugs/blob/master/README.md#suggested-sites-to-host-your-code-sample
 
 ## Any other comments?
