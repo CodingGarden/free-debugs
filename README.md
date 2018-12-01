@@ -8,7 +8,7 @@ Create an [issue on this repo](https://github.com/CodingGarden/free-debugs/issue
 
 Be sure to follow the template and answer as much about your problem as possible!
 
-Suggested sites to host your code sample:
+### Suggested sites to host your code sample:
 
 * [Github Repo](https://github.com/new)
 * [Gist File](https://gist.github.com/)
