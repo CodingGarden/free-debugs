@@ -14,6 +14,9 @@ Please check all that apply
 ## What problem do you need help with?
 
 
+## What have you tried to solve this problem?
+
+
 ## What steps are needed to reproduce this problem?
 
 
@@ -21,5 +24,9 @@ Please check all that apply
 
 > For your problem to be considered, you MUST link to a code sample.
 > See a list of suggested sites here: https://github.com/CodingGarden/free-debugs/blob/master/README.md#suggested-sites-to-host-your-code-sample
+
+## Why is this a good problem for me to debug on stream?
+
+> There are potentially a lot of user submissions / suggestions. Why should I choose yours to debug?
 
 ## Any other comments?
